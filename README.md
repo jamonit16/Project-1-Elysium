@@ -16,6 +16,6 @@ Place Holder
 
 ## Team Members
 - Robert Green
-- Eric Clayton
+- Eric "sommetimes on time" Clayton
 - Ivanna Price
 - Elijah Mercier

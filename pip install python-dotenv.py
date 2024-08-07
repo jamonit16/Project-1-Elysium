@@ -7,13 +7,13 @@ import os
 load_dotenv()
 
 api_key = os.getenv('EPA_API_KEY')
-
+email_key = os.getenv('EMAIL_KEY')
 
 
 def fetch_aqi_data(year, api_key):
     url = 'https://aqs.epa.gov/data/api/annualData/byCBSA'
     params = {
-        'email': 'massmediafan@gmail.com',
+        'email': email_key,
         'key': api_key,
         'param': '88101',  # Parameter code for PM2.5
         'bdate': f'{year}0101',

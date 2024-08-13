@@ -24,8 +24,24 @@ This project combines robust data analysis with environmental science to address
 
 ## Data Analysis Questions
 1. How have the maximum and minimum temperatures changed over the past 10 years in different urban areas across the U.S.?
-2. How do variations in maximum and minimum temperatures correlate with air quality levels in urban areas?
+   Over the past decade, Los Angeles and Tulsa have seen slight upward trends in both maximum and minimum temperatures, indicating warmer conditions and milder winters, aligning with climate 
+   change projections. In contrast, New York's maximum temperatures have remained stable, while minimum temperatures have slightly decreased, suggesting cooler winters. These trends reflect 
+   varying climate patterns across the cities, with Los Angeles and Tulsa warming, while New York shows a more complex response with stable maximums and cooler winters.
+2. How do variations in maximum and minimum temperatures and precipitation correlate with air quality levels in these cities?
+   The data from Los Angeles, New York, and Tulsa shows varying correlations between temperature, precipitation, and air quality over the past decade. In Los Angeles, higher maximum temperatures 
+   often coincide with increased AQI levels, suggesting poorer air quality during hotter periods, while precipitation has minimal impact. New York displays a weaker correlation between 
+   temperature variations and AQI, with some improvement in air quality during wetter years. In Tulsa, there is a slight upward trend in AQI with rising temperatures, though the relationship is 
+   less pronounced than in Los Angeles, and precipitation does not strongly correlate with changes in air quality. Overall, the data indicates that temperature has a more significant impact on 
+   air quality than precipitation, particularly in Los Angeles.
 3. How do the observed trends in maximum and minimum temperatures, as well as precipitation sums, align with climate change projections for the next decade?
+   Answer: The tri-graphs for the selected cities (Tulsa, Los Angeles, and New York) reveal seasonal patterns in temperature, with clear cycles of rising and falling temperatures over the years. 
+   There are subtle increases in the peaks of maximum temperatures and less pronounced but noticeable changes in minimum temperatures.
+   climate warming: The cities analyzed will likely continue to experience warming trends, with more frequent and severe heatwaves. Maximum and minimum temperatures are expected to 
+   rise further.
+   Weather variation: Precipitation patterns are likely to become more erratic, with some years experiencing significantly higher or lower than average precipitation, leading to floods and 
+   droughts.
+   These trends emphasize the need for cities to adapt to changing climate conditions, by improving heat resilience, enhancing water management systems, and preparing for more extreme weather 
+   events.
 
 ## Team Members
 - Robert Green
